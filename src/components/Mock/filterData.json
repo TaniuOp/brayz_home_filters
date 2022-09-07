@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "title": "INSTITUTIONS",
+    "options": ["USZ", "InspirationPRIME", "MD-IDR-MANOV"],
+    "type": "dropdown"
+  },
+  {
+    "id": "2",
+    "title": "OPERATORS",
+    "options": [
+      "LOLOLO",
+      "FRESKIM",
+      "KULLMANN KATHINKA",
+      "MANUELA",
+      "SVENDSEN METTE",
+      "ISKSH",
+      "UNKNOWN OPERATOR"
+    ],
+    "type": "options"
+  },
+  {
+    "id": "3",
+    "title": "DENSITY",
+    "options": ["ACR A", "ACR B", "ACR C", "ACR D"],
+    "type": "options"
+  },
+  {
+    "id": "4",
+    "title": "QUALITY",
+    "options": ["PERFECT", "GOOD", "MODERATE", "INADEQUATE"],
+    "type": "options"
+  }
+]
